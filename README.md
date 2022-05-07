@@ -1,0 +1,1 @@
+# dik-ucgende-hipotenus-hesaplayan-program
